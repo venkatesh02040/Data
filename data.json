@@ -1,0 +1,896 @@
+{
+    "districts": [
+        {
+            "Adilabad": [
+                {
+                    "Mandals": {
+                        "ADILABAD_RURAL": [
+                            {
+                                "Villages": [
+                                    "ANKAPOOR",
+                                    "ANKOLI",
+                                    "ANUKUNTA",
+                                    "ARLI_BUZURG",
+                                    "ASODA_BHURKI",
+                                    "BELLURI",
+                                    "BHEEMSERI",
+                                    "BORENUR",
+                                    "CHANDA",
+                                    "CHICHADHARI",
+                                    "CHINCHUGHAT",
+                                    "DIMMA",
+                                    "GANESHPUR_D",
+                                    "HATHIGUTTA",
+                                    "JAMDAPUR",
+                                    "JAMULDHARI",
+                                    "KACHKANTI",
+                                    "KHANAPOOR",
+                                    "KHANDALA_U",
+                                    "KOTTUR_NEVEGAON",
+                                    "KUMBHAJHERI",
+                                    "LANDASANGVI",
+                                    "LOHARA",
+                                    "LOKARI",
+                                    "MALEBORGAON",
+                                    "MALLAPUR_D",
+                                    "MAREGAON",
+                                    "NISHANGHAT",
+                                    "PIPPALDHARI",
+                                    "POCHARA",
+                                    "RAMAI",
+                                    "RAMPOOR_ROYATI",
+                                    "TAKLI",
+                                    "TARADA_SRIMATH",
+                                    "TIPPA",
+                                    "TONTOTOI",
+                                    "WANWAT",
+                                    "YESAPUR"
+                                ]
+                            }
+                        ],
+                        "ADILABAD_URBAN": [
+                            {
+                                "Villages": [
+                                    "ADILABAD_U",
+                                    "BHUKTAPUR",
+                                    "KHANAPUR"
+                                ]
+                            }
+                        ],
+                        "BAZARHATHNOOR": [
+                            {
+                                "Villages": [
+                                    "ANANTHAPUR",
+                                    "BALANPUR",
+                                    "BANDREW",
+                                    "BAZARHATHNUR",
+                                    "BHOSRA",
+                                    "BHUTAI_BUZURG",
+                                    "BHUTAI_KHURD",
+                                    "CHINTAL_SANGVI",
+                                    "DEHGAON",
+                                    "DHABADI",
+                                    "DHARAMPURI",
+                                    "DIGNOOR",
+                                    "GANGAPUR",
+                                    "GIRJAI",
+                                    "GIRNUR",
+                                    "GOKONDA",
+                                    "HARKAI",
+                                    "JATARLA",
+                                    "KANDLI",
+                                    "KANKADURGA",
+                                    "KINNERPALLE",
+                                    "KOLHARI",
+                                    "MANKAPUR_P",
+                                    "MOHADA",
+                                    "MORKHANDI",
+                                    "PIPRI",
+                                    "RAMPUR",
+                                    "TEMBI",
+                                    "UMERDA_BUZURG",
+                                    "WARTHAMANOOR",
+                                    "YESAPUR"
+                                ]
+                            }
+                        ],
+                        "BELA": [
+                            {
+                                "Villages": [
+                                    "AWALPUR",
+                                    "BELA",
+                                    "BHADI",
+                                    "BHEDODA",
+                                    "BHODOD_KOPSI",
+                                    "BOREGAON",
+                                    "BURHANPUR",
+                                    "CHANDPALLE",
+                                    "CHAPRALA",
+                                    "DATALPUR",
+                                    "DEHEGAON",
+                                    "DHOPTALA",
+                                    "DOUNA",
+                                    "EKORI",
+                                    "GUDA",
+                                    "JUNONI",
+                                    "KAMGARPUR",
+                                    "KARONI_B",
+                                    "KARONI_K",
+                                    "KHADKI",
+                                    "KHAGDUR",
+                                    "KOBHAI",
+                                    "KOPARUZANA",
+                                    "MANGROOL",
+                                    "MANYARPUR",
+                                    "MASALA_BUZURG",
+                                    "MASALA_KHURD",
+                                    "MOHABATPUR",
+                                    "NAGRALA",
+                                    "NARAYANPUR",
+                                    "PATAN",
+                                    "PITGAON",
+                                    "POHAR",
+                                    "PONNALA",
+                                    "RAMKAM",
+                                    "SADARPUR",
+                                    "SAHEJ",
+                                    "SANGDI",
+                                    "SANGVI",
+                                    "SHAMSHABAD",
+                                    "SINGAPUR",
+                                    "SIRSANNA",
+                                    "SONKHOS",
+                                    "SYEDPUR",
+                                    "TAKLI",
+                                    "TOYAGUDA_KORA",
+                                    "WARUR"
+                                ]
+                            }
+                        ],
+                        "BHEEMPUR": [
+                            {
+                                "Villages": [
+                                    "ANDARBANDH",
+                                    "ANTARGAON",
+                                    "ARLI_T",
+                                    "BABBAKNCHI",
+                                    "BELSARI",
+                                    "BHEEMPOOR",
+                                    "DHANORA",
+                                    "GOLLAGHAT",
+                                    "GOMUTRI",
+                                    "GONA",
+                                    "GULEDI",
+                                    "GUNJALA",
+                                    "KAMATHWADA",
+                                    "KARANJI",
+                                    "NIPANI",
+                                    "PIPPALKHOTI",
+                                    "TAMSI_K",
+                                    "WADGAON",
+                                    "WADOOR"
+                                ]
+                            }
+                        ],
+                        "BOATH": [
+                            {
+                                "Villages": [
+                                    "ANDURU",
+                                    "BABERA",
+                                    "BAHRAPUR",
+                                    "BIRLAGONDI",
+                                    "BOATH_K",
+                                    "BOATH_BUZURG",
+                                    "CHINTALABORI",
+                                    "DEMMI",
+                                    "DERA_D",
+                                    "DHANNUR_BUZURG",
+                                    "DHANNUR",
+                                    "GHANPUR",
+                                    "GOLLAPUR",
+                                    "KANGUTTA",
+                                    "KANTEGAON",
+                                    "KESLAPUR",
+                                    "KISTAPUR",
+                                    "KOWTHA_BUZURG",
+                                    "KOWTHA_KHURD",
+                                    "KUCHALAPUR",
+                                    "MARLAPALLE",
+                                    "MEDI",
+                                    "NAGAPUR",
+                                    "NAKKALAWADA",
+                                    "NARAYANPUR",
+                                    "NIGINI",
+                                    "PARDI_BUZURG",
+                                    "PARDI_KHURD",
+                                    "PATNAPUR",
+                                    "PIPPALADHARI",
+                                    "POCHERA",
+                                    "SAKHERA",
+                                    "SANGVI",
+                                    "SONALA",
+                                    "SURADAPUR",
+                                    "TEWTI",
+                                    "VENKATAPUR",
+                                    "WAJAR"
+                                ]
+                            }
+                        ],
+                        "GADIGUDA": [
+                            {
+                                "Villages": [
+                                    "ADEMEYON",
+                                    "ARJUNI",
+                                    "DHABA_BUZURG",
+                                    "DHABA_K",
+                                    "DONGARGAON",
+                                    "GADIGUDA",
+                                    "GOURI",
+                                    "JHARI",
+                                    "KADODI",
+                                    "KHADKI",
+                                    "KHANDOW",
+                                    "KOLAMA",
+                                    "KONDI",
+                                    "KOTHAPALLE_G",
+                                    "KOUTHALA",
+                                    "KUNIKASA",
+                                    "LOKARI_B",
+                                    "LOKARI_K",
+                                    "MAREGAON",
+                                    "PARASWADA_B",
+                                    "PARASWADA_K",
+                                    "PIPRI",
+                                    "POWNUR",
+                                    "PUNAGUDA",
+                                    "RAMPUR",
+                                    "RUPAPUR",
+                                    "SANGVI",
+                                    "SAWARI",
+                                    "SEDWAI",
+                                    "WARKWAI"
+                                ]
+                            }
+                        ],
+                        "GUDIHATNOOR": [
+                            {
+                                "Villages": [
+                                    "BELLURI",
+                                    "DHAMPUR",
+                                    "DONGARGAON",
+                                    "GONDHARKAPUR",
+                                    "GUDIHATHINUR",
+                                    "GURUJ",
+                                    "KAMALAPUR",
+                                    "KOLHARI",
+                                    "LINGAPUR",
+                                    "MACHAPUR",
+                                    "MALKAPUR",
+                                    "MANNUR",
+                                    "MUTHNUR",
+                                    "NERADIGONDA",
+                                    "RENDLS_BORI",
+                                    "SEETAGONDI",
+                                    "SHANTAPUR",
+                                    "TEJAPUR",
+                                    "TOSHAM",
+                                    "UMRI_B",
+                                    "VAIJAPUR"
+                                ]
+                            }
+                        ],
+                        "ICHODA": [
+                            {
+                                "Villages": [
+                                    "ADEGAON_BUZURG",
+                                    "ADEGAON_KHURD",
+                                    "BABJEPET",
+                                    "BABULDHOLE",
+                                    "BOREGAON",
+                                    "CHINCHOLI",
+                                    "DHABA_KHURD",
+                                    "DHARMAPURI",
+                                    "DHOBA_BUZURG",
+                                    "GAIDPALLE",
+                                    "GANDIWAGU",
+                                    "GIRJAM",
+                                    "GUBBA",
+                                    "GUNDALA",
+                                    "GUNDI",
+                                    "HEERAPUR",
+                                    "ICHODA",
+                                    "JALDA",
+                                    "JAMIDI",
+                                    "JOGIPET",
+                                    "JUNNI",
+                                    "KAMGIR",
+                                    "KESHA_PATNAM",
+                                    "KOKASMANNAR",
+                                    "LINGAPUR",
+                                    "MADAPUR",
+                                    "MALYAL",
+                                    "MANKAPUR",
+                                    "MOKHRA_BUZURG",
+                                    "MOKHRA_KHURD",
+                                    "NARSAPUR",
+                                    "NAVAGAON",
+                                    "SALYADA",
+                                    "SIRICHALMA",
+                                    "TALAMADRI"
+                                ]
+                            }
+                        ],
+                        "INDERAVELLY": [
+                            {
+                                "Villages": [
+                                    "ANJI",
+                                    "BURSANPATAR",
+                                    "DASNAPUR",
+                                    "DEVAPUR",
+                                    "DHANNURA_B",
+                                    "DHANNURA_K",
+                                    "DHARMASAGAR",
+                                    "DODANA",
+                                    "DONGARGAON",
+                                    "GATTEPALLE",
+                                    "GINNERA",
+                                    "GOUREEPUR",
+                                    "HARKAPUR",
+                                    "HEERAPUR",
+                                    "INDERVELLY",
+                                    "INDERVELLY_K",
+                                    "KESLAGUDA",
+                                    "KESLAPUR",
+                                    "MALLAPUR",
+                                    "MAMIDIGUDA",
+                                    "MENDAPALLE",
+                                    "MUTHNUR",
+                                    "PIPRI",
+                                    "TEJAPUR",
+                                    "WADAGAON",
+                                    "WALGANDA_HEERAPUR",
+                                    "YAMAIKUNTA"
+                                ]
+                            }
+                        ],
+                        "JAINAD": [
+                            {
+                                "Villages": [
+                                    "ADA",
+                                    "AKOLI",
+                                    "AKURLA",
+                                    "AWALPUR",
+                                    "BAHADURPUR",
+                                    "BALAPUR",
+                                    "BALLORI",
+                                    "BELGAON",
+                                    "BHORAJ",
+                                    "DADAPOOR",
+                                    "DEEPAIGUDA",
+                                    "DOLLARA",
+                                    "FOUZPUR",
+                                    "GIMMA_BUZURG",
+                                    "GIMMA_KHURD",
+                                    "GUDA",
+                                    "HARIYALI",
+                                    "HASHAMPUR",
+                                    "HATHIGHAT",
+                                    "JAINAD",
+                                    "JUNONI",
+                                    "KAMAI",
+                                    "KAMTHA",
+                                    "KANPA_MEDIGUDA",
+                                    "KARANJI",
+                                    "KARANWADI",
+                                    "KEDARPUR",
+                                    "KHAPRI",
+                                    "KODEKOTHA",
+                                    "KORTA",
+                                    "KOWTHA",
+                                    "KURA",
+                                    "KUTHOMPUR",
+                                    "LAXMIPUR_ULIGAN",
+                                    "LEKARWADI",
+                                    "MAKODA",
+                                    "MANDAGADA",
+                                    "MANGURLA",
+                                    "MIRZAPUR",
+                                    "MUKTAPUR",
+                                    "NIRALA",
+                                    "NIZAMPUR",
+                                    "PARDI_BUZURG",
+                                    "PARDI_KHURD",
+                                    "PENDALWADA",
+                                    "PIPPALGAON",
+                                    "PIPPARWADA",
+                                    "POOSAI",
+                                    "RAMPUR",
+                                    "SANGVI_K",
+                                    "SAVAPUR",
+                                    "SEKAPOOR",
+                                    "SIRSONNA",
+                                    "TARADA_BUZURG",
+                                    "UMRI"
+                                ]
+                            }
+                        ],
+                        "MAVALA": [
+                            {
+                                "Villages": [
+                                    "BATTISAWARGAON",
+                                    "DASNAPUR",
+                                    "MAVALA",
+                                    "WAGHAPUR"
+                                ]
+                            }
+                        ],
+                        "NARNOOR": [
+                            {
+                                "Villages": [
+                                    "BABJHARI",
+                                    "BALANPUR",
+                                    "BHIMPUR",
+                                    "CHORGAON",
+                                    "DHUPAPUR",
+                                    "EMPALLE",
+                                    "GANGAPUR",
+                                    "GUNDALA",
+                                    "GUNJALA",
+                                    "KHAIRDATWA",
+                                    "KHANPUR",
+                                    "MAHADAPUR",
+                                    "MAHAGAON",
+                                    "MALANGI",
+                                    "MALEPUR",
+                                    "MANJARI",
+                                    "MANKAPUR",
+                                    "NAGOLKONDA",
+                                    "NARNOOR",
+                                    "SONAPUR",
+                                    "SUNGAPUR",
+                                    "TADIHADPANUR",
+                                    "UMRI"
+                                ]
+                            }
+                        ],
+                        "NERADIGONDA": [
+                            {
+                                "Villages": [
+                                    "AREPALLE",
+                                    "BONDADI",
+                                    "BONDEMREGOD",
+                                    "BORAGAON",
+                                    "BUDDIKONDA",
+                                    "BUGGARAM",
+                                    "CHINCHOLI",
+                                    "DARBA",
+                                    "DHONNORA",
+                                    "GAJLI",
+                                    "GANDHARI",
+                                    "ISPUR",
+                                    "JASNAPUR",
+                                    "KISHTAPUR",
+                                    "KORATKAL_BUZURG",
+                                    "KORATKAL_KHURD",
+                                    "KUMARI",
+                                    "KUNTALA_BUZURG",
+                                    "KUNTALA_KHURD",
+                                    "KUPTI_BUZURG",
+                                    "KUPTI_KHURD",
+                                    "LINGATLA",
+                                    "LOKHAMPUR",
+                                    "MADHAPUR",
+                                    "MALKALPAHAD",
+                                    "NAGAMALYAL",
+                                    "NARAYANAPUR",
+                                    "NERADIGONDA",
+                                    "PEECHRA",
+                                    "PURUSHOTHAMPUR",
+                                    "RAIPUR",
+                                    "RAJURA",
+                                    "ROLMANDA",
+                                    "SHANKARAPUR",
+                                    "SOWERGAON",
+                                    "SURDAPUR",
+                                    "TARNAM_BUZURG",
+                                    "TARNAM_KHURD",
+                                    "TEJAPUR",
+                                    "VENKATAPUR",
+                                    "WADDUR",
+                                    "WAGDHARI",
+                                    "WANKIDI"
+                                ]
+                            }
+                        ],
+                        "SIRIKONDA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "TALAMADUGU": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "TAMSI": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "UTNUR": [
+                            {
+                                "Villages": []
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kothagudem": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "HANUMAKONDA_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "HYDERABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JAGTIAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JANAGOAN_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "KAMAREDDY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "knr": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "KHAMMAM_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MAHABUBABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MAHABUBNAGAR_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MANCHERIAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MEDAK_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MULUG_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NAGARKARNUOOL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NALGONDA_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NARAYANPET_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NIRMAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NIZAMABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "PEDDAPALLI_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "RANGAREDDY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "SANGAREDDY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "SIDDIPET_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "SURYAPET_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "VIKARABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "WANAPARTHY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "WARANGAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JAYASHANKAR_BHOOPALPALLY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JOGULAMBA_GADWAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "ASIFABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MEDCHAL_MALKAJGIRI_D": [
+                {
+                    "Mandals": {
+                        "alwal": [
+                            {
+                                "villages": ["AKBARJHA","ALWAL_M","DAMMAIGUDA","FARZANDGUDA","KOWKUR","LOTHKUNTA","MACHA_BOLARAM","MAHADEVPUR","TURKAPALLE","YAPRAL"]
+                            }
+                        ],
+                        "bachupally": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "balanagar": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "dundigal_gandimaisamma": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "ghatkesar": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "kapra": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "keesara": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "kukatpally": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "malkajgiri": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "medchal": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "medipally": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "mooduchintalapalle": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "quthbullapur": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "shamirpet": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "uppal": [
+                            {
+                                "villages": []
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "RAJANNA_SIRICILLA_D": [
+                {
+                    "Mandals": {
+                        "BOINPALLE": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "CHANDURTHI": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "GAMBHIRAOPET": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "ILLANTHAKUNTA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "KONARAOPETA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "MUSTABAD": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "RUDRANGI": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "SIRSILLA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "THANGALLAPALLI": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "VEERNAPALLI": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "VEMULAWADA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "VEMULAWADA_RURAL": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "YELLA_REDDI_PETA": [
+                            {
+                                "Villages": []
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "YADADRI_BHUVANAGIRI_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        }
+    ]
+}
