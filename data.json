@@ -504,22 +504,119 @@
                         ],
                         "SIRIKONDA": [
                             {
-                                "Villages": []
+                                "Villages": [
+                                    "KONDAPUR",
+                                    "LACHIMPUR_B",
+                                    "LACHIMPUR_K",
+                                    "LAKAMPUR",
+                                    "NARAYANAPUR",
+                                    "NERADIGONDA_K",
+                                    "NERODIGONDA",
+                                    "POCHAMPALLE",
+                                    "PONNA",
+                                    "RAMPUR_B",
+                                    "SIRIKONDA",
+                                    "SOANPALLE",
+                                    "SUNKIDI",
+                                    "WAIPET"
+                                ]
                             }
                         ],
                         "TALAMADUGU": [
                             {
-                                "Villages": []
+                                "Villages": [
+                                    "ARLI",
+                                    "BHARAMPUR",
+                                    "DEHEGAON",
+                                    "DEVAPUR",
+                                    "DORLI",
+                                    "JHARI",
+                                    "KAJJARLA",
+                                    "KAPPARDEVI",
+                                    "KHODAD",
+                                    "KOSAI",
+                                    "KOTHUR",
+                                    "KUCHALAPOOR",
+                                    "LACHAMPUR",
+                                    "LINGI",
+                                    "MADNAPOOR",
+                                    "NANDIGAON",
+                                    "PALASIBUZURG",
+                                    "PALASIKHURD",
+                                    "PALLE_BUZURG",
+                                    "PALLE_KHURD",
+                                    "PANGADPIPRI",
+                                    "RATNAPUR",
+                                    "RUYYADI",
+                                    "SAKNAPOOR",
+                                    "SUNKIDI",
+                                    "TALAMADUGU",
+                                    "UMADAM",
+                                    "UMREI"
+                                ]
                             }
                         ],
                         "TAMSI": [
                             {
-                                "Villages": []
+                                "Villages": [
+                                    "AMBUGAON",
+                                    "BANDALNAGAPUR",
+                                    "GHOTKURI",
+                                    "GIRGAON",
+                                    "HASNAPUR",
+                                    "JAMDI",
+                                    "KHAPPERLA",
+                                    "PALODI",
+                                    "PONNARI",
+                                    "SANVERGAON",
+                                    "TAMSI_B",
+                                    "WADDADI"
+                                ]
                             }
                         ],
                         "UTNUR": [
                             {
-                                "Villages": []
+                                "Villages": [
+                                    "ANDHOLI",
+                                    "BALAMPUR",
+                                    "BHUPET",
+                                    "BIRSAIPET",
+                                    "CHANDUR",
+                                    "CHINTAKARRA",
+                                    "DANTHANPALLE",
+                                    "DURGAPUR",
+                                    "GANGAMAPET",
+                                    "GANGAPUR",
+                                    "GHANPUR",
+                                    "GHATTI",
+                                    "HASNAPUR",
+                                    "HEERAPUR",
+                                    "HEERAPUR",
+                                    "KAMNIPET",
+                                    "KOPERGADH",
+                                    "LAKKARAM",
+                                    "LUXETTIPET",
+                                    "NAGAPUR",
+                                    "NARSAPUR_BUZURG",
+                                    "NARSAPUR_KHURD",
+                                    "NARSAPUR_NEW",
+                                    "PULIMADGU",
+                                    "RAMLINGAMPET",
+                                    "RAMPUR_KHURD",
+                                    "SAKHERA",
+                                    "SALEWADA_BUZURG",
+                                    "SALEWADA_KHURD",
+                                    "SHAMPUR",
+                                    "TANDRA",
+                                    "TEJAPUR",
+                                    "UMRI",
+                                    "UTNUR",
+                                    "WADGALPUR_BUZURG",
+                                    "WADGALPUR_KHURD",
+                                    "WADONI",
+                                    "YENDA",
+                                    "YENKA"
+                                ]
                             }
                         ]
                     }
@@ -529,7 +626,397 @@
         {
             "kothagudem": [
                 {
-                    "Mandals": {}
+                    "Mandals": {
+                        "ALLAPALLI": [
+                            {
+                                "villages": [
+"ADAVI_RAMAVARAM",
+"ALLAPALLI",
+"ANANTHOGU",
+"APPAIPETA",
+"MARKODE",
+"PEDDA_VENKATAPURAM",
+"RAMANUJAGUDEM",
+"VULVA_CHALAKAM"
+                                ]
+                            }
+                        ],
+                        "ANNAPUREDDYPALLI": [
+                            {
+                                "villages": [
+                                    "ABBUGUDEM",
+                                    "ANNADEVAM",
+                                    "ANNAPUREDDIPALLI",
+                                    "GUMPENA",
+                                    "NAMAVARAM",
+                                    "NARSAPURAM",
+                                    "PEDDIREDDIGUDEM",
+                                    "PENTLAM",
+                                    "TELIGERLA",
+                                    "VOOTUPALLI"
+                                ]
+                            }
+                        ],
+                        "ASWAPURAM": [
+                            {
+                                "villages": [
+"AMERLA",
+"AMMAGARIPALLI",
+"ASWAPURAM",
+"CHINTRIYALA",
+"GANDIGUDEM",
+"KESAVAPURAM",
+"KUMMARIGUDEM",
+"MAMILLAVAI",
+"NELLIPAKA",
+"PAMULAPALLI",
+"THUMMALACHERUVU"
+                                ]
+                            }
+                        ],
+                        "ASWARAOPETA": [
+                            {
+                                "villages": [
+"ACHUTHAPURAM",
+"ANANTHARAM",
+"ASUPAKA",
+"ASWARAOPETA",
+"BACHUVARIGUDEM",
+"DURDAPADU",
+"GUMMADAVALLI",
+"GUNTIMADUGU",
+"JAMMIGUDEM",
+"KANNAIGUDEM",
+"KAVIDIGUNDLA",
+"KHAMMAMPAD",
+"LANKALAPALLI",
+"MADDIKONDA",
+"NANDIPADU",
+"NARAMUVARIGUDEM",
+"NARAYANAPURAM",
+"RAMANNAGUDEM",
+"TIRUMALAKUNTA",
+"VEDANTHAPURAM"
+                                ]
+                            }
+                        ],
+                        "BHADRACHALAM": [
+                            {
+                                "villages": [
+                                    "BHADRACHALAM"   
+                                ]
+                            }
+                        ],
+                        "BURGAMPADU": [
+                            {
+                                "villages": [
+"BURGAMPADU",
+"GANAPAVARAM",
+"GUMPANAPALLE",
+"IBRAHIMPETA",
+"IRVENDI",
+"KRISHNA",
+"MORAMPALLE",
+"MOTHEPATTINAGAR",
+"NAGINENIPROLU",
+"NAKIRAPETA",
+"PINAPAKA_PATTINAGAR",
+"RAVIGUDEM_BIG",
+"SAARAPAKA",
+"SAMPALLE",
+"SEETHARAMA_NAGAR",
+"SRIDHARA",
+"TEKULA",
+"UPPUSAKA"
+                                ]
+                            }
+                        ],
+                        "CHANDRUGONDA": [
+                            {
+                                "villages": [
+"CHANDRUGONDA",
+"DAMERACHARLA",
+"GANUGAPADU",
+"GURRAMGUDEM",
+"MADDUKURU",
+"POKALAGUDEM",
+"RAVIKAMPADU",
+"SEETHAIGUDEM",
+"THUNGARAM",
+"TIPPANAPALLI"
+                                ]
+                            }
+                        ],
+                        "CHERLA": [
+                            {
+                                "villages": [
+"BATHINAPALLE",
+"BHUMULLANKA",
+"BODANALLI_G",
+"BODANALLI_Z",
+"BOINAPALLY_G",
+"C_KATHIGUDEM",
+"CHALAMALA_Z",
+"CHERLA_G",
+"CHERLA_Z",
+"CHIMALAPADU",
+"CHINAMIDISILERU_G",
+"CHINAMIDISILERU_Z",
+"CHINTAGUPPA",
+"CHINTAKUNTA_Z",
+"DANDUPETA_G",
+"DANDUPETA_Z",
+"DEVARAPALLI_G",
+"DEVARAPALLI_Z",
+"DOSILLAPALLY",
+"GAMPALLE_Z",
+"GANNAVARAM_Z",
+"GOGUBAKA_Z",
+"GOGUBAKA_Z",
+"GOMMUGUDEM_Z",
+"GOMMUPULLI_BOINAPALLE",
+"JANGALAPALLE",
+"JETTIGUDEM_Z",
+"KALIVERU_Z",
+"KATEPALLI",
+"KESAVAPURAM",
+"KOTHAGUDEM_Z",
+"KOTHAPALLY_G",
+"KOTHAPALLY_Z",
+"KOTHURU",
+"KOYYURU_Z",
+"KUDUNURU_G",
+"KUDUNURU_Z",
+"KURNAPALLE",
+"LINGALA_G",
+"LINGALA_Z",
+"LINGAPURAM_Z",
+"MAMIDIGUDEM_CHALK",
+"MAMIDIGUDEM_Z",
+"MOGULLAPALLE_G",
+"MUMMIDARAM_Z",
+"PADAMIDISILERU_CHALK",
+"PADAMIDISILERU_CHALK",
+"PEDAMIDISILERU_Z",
+"PEDAMIDISILERU_CHALK",
+"PEDDIPALLE",
+"PULIBOINAPALLY",
+"PULIGUNDALA",
+"PUSUGUPPA_PATCH",
+"PUSUGUPPA_PATCH",
+"PUSUGUPPA_PATCH",
+"R_KOTHAGUDEM",
+"RALLAGUDEM_G",
+"RAMANUJAPURAM",
+"REGUNTA_G",
+"REGUNTA_Z",
+"RICEPETA",
+"SARANGAPANI_Z",
+"SARANGAPANI_G",
+"SINGASAMUDRAM_G",
+"SRINIVASAPURAM_Z",
+"SUBBAMPETA",
+"SUBBAMPETA_G",
+"SUBBAMPETA_Z",
+"TEGADA_G",
+"TEGADA_Z",
+"TIPPAPURAM",
+"UNJUPALLY",
+"UPPERAGUDEM_G",
+"UYYALAMADUGU_G",
+"UYYALAMADUGU_Z",
+"VADDIPET_Z",
+"VEERAPURAM_G"
+                                ]
+                            }
+                        ],
+                        "CHUNCHUPALLY": [
+                            {
+                                "villages": [
+"CHUNCHUPALLE_U",
+"GARIMELLA_PADU_U",
+"PENAGADAPA",
+"PENUBALLI"
+                                ]
+                            }
+                        ],
+                        "DAMMAPETA": [
+                            {
+                                "villages": [
+"AKINEPALLI",
+"AMUDALALPADU",
+"ANKAMPALEM",
+"BALARAJUGUDEM",
+"DAMMAPETA",
+"GANESHPADU",
+"GUNNEPALLI",
+"JAGGARAM",
+"KATKURU",
+"LACHAPURAM",
+"MALKARAM",
+"MALLARAM",
+"MANDALAPALLI",
+"MODDULAGUDEM",
+"MUSTIBANDA",
+"NACHARAM",
+"NAGUPALLI",
+"NAIDUPETA",
+"PATWARIGUDEM",
+"PEDDAGOLLAGUDEM",
+"SAYANARAOPALEM",
+"VADLAGUDEM"
+                                ]
+                            }
+                        ],
+                        "DUMMAGUDEM": [
+                            {
+                                "villages": [
+"ACHUTHAPURAM",
+"ADAVI_RAMAVARAM",
+"ANJUBAKA",
+"ARLAGUDEM",
+"BANDARUGUDEM",
+"BHEEMAVARAM",
+"BOJJIGUPPA",
+"BURRA_VEMULA",
+"BYRAGULAPADU",
+"CHERUPALLI",
+"CHINNA_KAMALAPURAM",
+"CHINNA_NALLABALLI",
+"CHINNABANDIREVU",
+"CHINTAGUPPA",
+"DABBANUTHULA",
+"DANTENAM",
+"DHARMAPURAM",
+"DUMMUGUDEM",
+"FOWLERPETA",
+"GANGAVARAM",
+"GANGOLU",
+"GOURAVARAM",
+"GOVINDAPURAM",
+"GURRALABAYALU",
+"JINNEGATTU",
+"KANNAPURAM",
+"KASINAGARAM",
+"KATAYAGUDEM",
+"KESAVAPATNAM",
+"KHALSA_REGUBALLY",
+"KHALSA_VEERABHADRAPURAM",
+"KOMMANAPALLI",
+"KOTHAD DUMMUGUDEM",
+"KOTHAGUDEM",
+"KOTHAJINNELAGUDEM",
+"KOTHAPALLI",
+"KOTHURU",
+"KOTIPALLEPADU",
+"KOYA_NARSAPURAM",
+"LACHIGUDEM",
+"LAKSHMINARASIMHARAOPETA",
+"LAKSHMIPURAM",
+"LAXMINAGARAM",
+"LAXMIPURAM",
+"LINGAPURAM",
+"MAHADEVAPURAM",
+"MANGUVAI",
+"MARAYAGUDEM",
+"MAREDUBAKA",
+"MULAKANAPALLI",
+"NADIKUDI",
+"NARAYANAPURAM",
+"NARAYANRAO",
+"NARSAPURAM",
+"PAIDAGUDEM",
+"PAIDAKULAMADUGU",
+"PARNASALA",
+"PATAJINNELAGUDEM",
+"PATHA_MAREDUBAKA",
+"PEDABANDIREVU",
+"PEDANALLABALLI",
+"PEDDA_KAMALAPURAM",
+"PRAGALLAPALLY",
+"RAJUPETA",
+"RAMACHANDRAPURAM",
+"RAMACHANDRUNI_PETA",
+"RAMARAO_PETA",
+"SANGAM",
+"SEETHARAMPURAM",
+"SINGAVARAM",
+"SITANAGARAM",
+"SUBBARAOPETA",
+"SUGHNAPURAM",
+"SURAVARAM",
+"TAILORPETA",
+"TURUBAKA",
+"VENKATA_RAMAPURAM",
+"WHITE_NAGARAM",
+"WORK_LAND_REGUBALLE",
+"YERRABORU",
+"Z_VEERABHADRAPURAM",
+"ZAMANDARI_REGUBALLE"
+                                ]
+                            }
+                        ],
+                        "GUNDALA": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "JULURPAD": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "KARAKAGUDEM": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "KOTHAGUDEM": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "LAXMIDEVIPALLY": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "MANUGURU": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "MULAKALAPALLE": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "PALWANCHA": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "PINAPAKA": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "SUJATHANAGAR": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "TEKULAPALLE": [
+                            {
+                                "villages": []
+                            }
+                        ],
+                        "YELLANDU": [
+                            {
+                                "villages": []
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -735,7 +1222,18 @@
                     "Mandals": {
                         "alwal": [
                             {
-                                "villages": ["AKBARJHA","ALWAL_M","DAMMAIGUDA","FARZANDGUDA","KOWKUR","LOTHKUNTA","MACHA_BOLARAM","MAHADEVPUR","TURKAPALLE","YAPRAL"]
+                                "villages": [
+                                    "AKBARJHA",
+                                    "ALWAL_M",
+                                    "DAMMAIGUDA",
+                                    "FARZANDGUDA",
+                                    "KOWKUR",
+                                    "LOTHKUNTA",
+                                    "MACHA_BOLARAM",
+                                    "MAHADEVPUR",
+                                    "TURKAPALLE",
+                                    "YAPRAL"
+                                ]
                             }
                         ],
                         "bachupally": [
